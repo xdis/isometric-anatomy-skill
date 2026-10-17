@@ -1,5 +1,7 @@
 <h1 align="center">Anatomy</h1>
 
+<p align="center"><sub>Fork of <a href="https://github.com/wheresryan22/anatomy">wheresryan22/anatomy</a> by Ryan (MIT). All credit for the skill goes to the original author; this fork adds a practical <a href="HOW_TO_USE.md">how-to guide</a>.</sub></p>
+
 <p align="center"><b>A Claude skill that explains an idea by building it as a real, working object.</b><br>Also runs in Antigravity, OpenCode, Codex and MiniMax Code.<br>Crafted, interactive isometric figures with many small precise parts, in SVG, WebGL and 3D.</p>
 
 <p align="center">
